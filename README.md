@@ -1,6 +1,3 @@
-Here's the updated and professionally refined version of your `README.md`, with the added **Working** section and clear formatting:
-
----
 
 # 📄 Multimodal RAG for PDF Ingestion and Text-Image Output
 
