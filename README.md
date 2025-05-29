@@ -1,4 +1,4 @@
-
+ 
 # 📄 Multimodal RAG for PDF Ingestion and Text-Image Output 
 
 This project implements a **Multimodal Retrieval-Augmented Generation (RAG)** system that ingests PDF documents and generates outputs containing both **text** and **images** extracted or referenced from the PDFs.
